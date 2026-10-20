@@ -1,0 +1,11 @@
+{
+    "connection":{
+        "host":"localhost",
+        "port":3306,
+        "database":"laptop",
+        "user":"root",
+        "password":""
+         
+    },
+    "applicationport":9999
+}
